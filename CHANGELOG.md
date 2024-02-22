@@ -12,6 +12,14 @@
 
 ---
 
+[//]: # (START/v1.5.0)
+# v1.5.0
+
+## Features
+  * All dependencies have been updated to the latest versions.
+
+---
+
 [//]: # (START/v1.4.1)
 # v1.4.1
 
