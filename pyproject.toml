@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "onepasswordconnectsdk"
-version = "1.4.1"
+version = "1.5.0"
 description = "Python SDK for 1Password Connect"
 license = "MIT"
 authors = ["1Password"]
@@ -14,7 +14,7 @@ repository = "https://github.com/1Password/connect-sdk-python"
 [tool.poetry.dependencies]
 python = "^3.11"
 python-dateutil = "^2.8.2"
-httpx = "^0.27.0"
+httpx = ">=0.25,<0.26"
 
 [tool.poetry.group.dev.dependencies]
 pytest = "^8.0.1"
